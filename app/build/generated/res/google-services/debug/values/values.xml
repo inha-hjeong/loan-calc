@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">511969987836-mutumgn3g7fh3i0jc4t18fb5pt10n82f.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">511969987836</string>
+    <string name="google_api_key" translatable="false">AIzaSyAwZkBzkU0ZrreZPMp2dtNUjKXHLDtR8gI</string>
+    <string name="google_app_id" translatable="false">1:511969987836:android:c50c44be74a5a82a7b1b79</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAwZkBzkU0ZrreZPMp2dtNUjKXHLDtR8gI</string>
+    <string name="google_storage_bucket" translatable="false">loan-calculator-deafb.appspot.com</string>
+    <string name="project_id" translatable="false">loan-calculator-deafb</string>
+</resources>

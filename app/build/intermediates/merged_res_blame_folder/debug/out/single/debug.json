@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/drawable-xxhdpi_ic_info.png.flat",
+        "source": "com.rssll971.loancalculator.app-pngs-2:/drawable-xxhdpi/ic_info.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/drawable-xxxhdpi_ic_info.png.flat",
+        "source": "com.rssll971.loancalculator.app-pngs-2:/drawable-xxxhdpi/ic_info.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/mipmap-hdpi_ic_house_launcher_v2_round.png.flat",
+        "source": "com.rssll971.loancalculator.app-main-9:/mipmap-hdpi/ic_house_launcher_v2_round.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/drawable_ic_swap.xml.flat",
+        "source": "com.rssll971.loancalculator.app-main-9:/drawable/ic_swap.xml"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/mipmap-xxhdpi_ic_house_launcher_v2_foreground.png.flat",
+        "source": "com.rssll971.loancalculator.app-main-9:/mipmap-xxhdpi/ic_house_launcher_v2_foreground.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/drawable-xxhdpi_ic_logo_v2.png.flat",
+        "source": "com.rssll971.loancalculator.app-pngs-2:/drawable-xxhdpi/ic_logo_v2.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/drawable-hdpi_ic_info.png.flat",
+        "source": "com.rssll971.loancalculator.app-pngs-2:/drawable-hdpi/ic_info.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/mipmap-xhdpi_ic_house_launcher_v2_foreground.png.flat",
+        "source": "com.rssll971.loancalculator.app-main-9:/mipmap-xhdpi/ic_house_launcher_v2_foreground.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/mipmap-mdpi_ic_house_launcher_v2.png.flat",
+        "source": "com.rssll971.loancalculator.app-main-9:/mipmap-mdpi/ic_house_launcher_v2.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/drawable_ic_chart_downtrend.xml.flat",
+        "source": "com.rssll971.loancalculator.app-main-9:/drawable/ic_chart_downtrend.xml"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/drawable-anydpi-v24_ic_info.xml.flat",
+        "source": "com.rssll971.loancalculator.app-pngs-2:/drawable-anydpi-v24/ic_info.xml"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/drawable-mdpi_ic_info.png.flat",
+        "source": "com.rssll971.loancalculator.app-pngs-2:/drawable-mdpi/ic_info.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/mipmap-hdpi_ic_house_launcher_v2.png.flat",
+        "source": "com.rssll971.loancalculator.app-main-9:/mipmap-hdpi/ic_house_launcher_v2.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/drawable_ic_close.xml.flat",
+        "source": "com.rssll971.loancalculator.app-main-9:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/mipmap-anydpi-v26_ic_house_launcher_v2_round.xml.flat",
+        "source": "com.rssll971.loancalculator.app-main-9:/mipmap-anydpi-v26/ic_house_launcher_v2_round.xml"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/mipmap-xhdpi_ic_house_launcher_v2.png.flat",
+        "source": "com.rssll971.loancalculator.app-main-9:/mipmap-xhdpi/ic_house_launcher_v2.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/mipmap-xxhdpi_ic_house_launcher_v2_round.png.flat",
+        "source": "com.rssll971.loancalculator.app-main-9:/mipmap-xxhdpi/ic_house_launcher_v2_round.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/drawable-xxxhdpi_ic_logo_v2.png.flat",
+        "source": "com.rssll971.loancalculator.app-pngs-2:/drawable-xxxhdpi/ic_logo_v2.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/mipmap-xxxhdpi_ic_house_launcher_v2_foreground.png.flat",
+        "source": "com.rssll971.loancalculator.app-main-9:/mipmap-xxxhdpi/ic_house_launcher_v2_foreground.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/mipmap-mdpi_ic_house_launcher_v2_round.png.flat",
+        "source": "com.rssll971.loancalculator.app-main-9:/mipmap-mdpi/ic_house_launcher_v2_round.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/mipmap-anydpi-v26_ic_house_launcher_v2.xml.flat",
+        "source": "com.rssll971.loancalculator.app-main-9:/mipmap-anydpi-v26/ic_house_launcher_v2.xml"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/drawable-xhdpi_ic_info.png.flat",
+        "source": "com.rssll971.loancalculator.app-pngs-2:/drawable-xhdpi/ic_info.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/mipmap-xxxhdpi_ic_house_launcher_v2.png.flat",
+        "source": "com.rssll971.loancalculator.app-main-9:/mipmap-xxxhdpi/ic_house_launcher_v2.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/drawable-xhdpi_ic_logo_v2.png.flat",
+        "source": "com.rssll971.loancalculator.app-pngs-2:/drawable-xhdpi/ic_logo_v2.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/drawable-ldpi_ic_logo_v2.png.flat",
+        "source": "com.rssll971.loancalculator.app-pngs-2:/drawable-ldpi/ic_logo_v2.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/mipmap-xxxhdpi_ic_house_launcher_v2_round.png.flat",
+        "source": "com.rssll971.loancalculator.app-main-9:/mipmap-xxxhdpi/ic_house_launcher_v2_round.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/mipmap-mdpi_ic_house_launcher_v2_foreground.png.flat",
+        "source": "com.rssll971.loancalculator.app-main-9:/mipmap-mdpi/ic_house_launcher_v2_foreground.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/drawable-anydpi-v24_ic_logo_v2.xml.flat",
+        "source": "com.rssll971.loancalculator.app-pngs-2:/drawable-anydpi-v24/ic_logo_v2.xml"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/mipmap-xxhdpi_ic_house_launcher_v2.png.flat",
+        "source": "com.rssll971.loancalculator.app-main-9:/mipmap-xxhdpi/ic_house_launcher_v2.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/drawable-ldpi_ic_info.png.flat",
+        "source": "com.rssll971.loancalculator.app-pngs-2:/drawable-ldpi/ic_info.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/drawable-hdpi_ic_logo_v2.png.flat",
+        "source": "com.rssll971.loancalculator.app-pngs-2:/drawable-hdpi/ic_logo_v2.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/mipmap-xhdpi_ic_house_launcher_v2_round.png.flat",
+        "source": "com.rssll971.loancalculator.app-main-9:/mipmap-xhdpi/ic_house_launcher_v2_round.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/drawable-mdpi_ic_logo_v2.png.flat",
+        "source": "com.rssll971.loancalculator.app-pngs-2:/drawable-mdpi/ic_logo_v2.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/mipmap-hdpi_ic_house_launcher_v2_foreground.png.flat",
+        "source": "com.rssll971.loancalculator.app-main-9:/mipmap-hdpi/ic_house_launcher_v2_foreground.png"
+    },
+    {
+        "merged": "com.rssll971.loancalculator.app-merged_res-7:/drawable_ic_chart_flat.xml.flat",
+        "source": "com.rssll971.loancalculator.app-main-9:/drawable/ic_chart_flat.xml"
+    }
+]
